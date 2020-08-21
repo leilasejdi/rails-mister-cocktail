@@ -10,4 +10,4 @@ Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
 Cocktail.create(name: "mojito")
 Cocktail.create(name: "cuba libre")
-
+Cocktail.create(name: "fernet cola")
